@@ -1,0 +1,8 @@
+body {
+    margin: 0;
+}
+.rainbow-gradient {
+    height: 300px;
+    width: 100%;
+    background: linear-gradient(red,orange,yellow,green,blue,indigo,violet);
+}
